@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм (простой)»
 
-* Студент: [Наргиз Сабитова](https://up.htmlacademy.ru/javascript/27/user/2200641).
-* Наставник: `Неизвестно`.
+- Студент: [Наргиз Сабитова](https://up.htmlacademy.ru/javascript/27/user/2200641),
+- Наставник: [Павел Нюкало](https://htmlacademy.ru/profile/nyukalopavel). 
 
 ---
 
